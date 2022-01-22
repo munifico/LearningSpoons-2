@@ -1,0 +1,5 @@
+트랜스포머로 기계 번역기 만들기
+https://colab.research.google.com/drive/1Vm49MfibBnNvrtYB2nbyYxcspzYvqNr3?usp=sharing
+
+트랜스포머로 챗봇 만들기
+https://colab.research.google.com/drive/1GUeVVXzmZF4gZe19GameVNoJP0HpZib-?usp=sharing

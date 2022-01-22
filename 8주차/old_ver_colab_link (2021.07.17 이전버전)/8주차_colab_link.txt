@@ -1,0 +1,17 @@
+트랜스포머로 기계 번역기 만들기
+https://colab.research.google.com/drive/1Vm49MfibBnNvrtYB2nbyYxcspzYvqNr3?usp=sharing
+
+트랜스포머로 챗봇 만들기
+https://colab.research.google.com/drive/1GUeVVXzmZF4gZe19GameVNoJP0HpZib-?usp=sharing
+
+멀티링구얼-BERT로 네이버 영화 리뷰 분류
+https://colab.research.google.com/drive/1__O9ULBH0eAU4KKEOuB2RzftxGYQTghM?usp=sharing
+
+멀티링구얼-BERT로 네이버 영화 리뷰 분류2
+https://colab.research.google.com/drive/1Qs8gGSjFNHGQm0HeUVPQszRPp42IOkzf?usp=sharing
+
+SKT KoBERT로 네이버 영화 리뷰 분류
+https://colab.research.google.com/drive/1hOlESOj_5-qtnFO5gMwdVpT6ZPWIxDJI?usp=sharing
+
+BERT를 이용한 개체명인식
+https://colab.research.google.com/drive/1XfrnzhG_bj5fICCWiL2wzGNIL6ZL7vyx?usp=sharing

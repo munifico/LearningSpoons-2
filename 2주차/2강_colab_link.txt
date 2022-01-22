@@ -1,0 +1,5 @@
+선형 회귀에 대한 간단한 코드
+https://colab.research.google.com/drive/1eDAOBlu48ySE87obq5Camlqyn7Csa_3u?usp=sharing
+
+2강 구글 colab 링크
+https://bit.ly/3elgii1

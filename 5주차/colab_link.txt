@@ -1,0 +1,5 @@
+의도 분류 : https://bit.ly/3fraq7y
+Tensorflow 1버전 글자 임베딩 + CRF : https://bit.ly/2Oi37mo
+Tensorflow 2버전 글자 임베딩 + CRF : https://colab.research.google.com/drive/11f3wpoX7KWj3elz-C-RBn7o5HyE3yrvQ?usp=sharing
+Tensorflow 2버전 CRF layer : https://colab.research.google.com/drive/1G52OfUEwNay211xZ-s3XfOFU1MECoxmv?usp=sharing
+양방향 LSTM의 다양한 실습 (한국어 개체명 인식 실습 포함) : https://bit.ly/38OrnGm

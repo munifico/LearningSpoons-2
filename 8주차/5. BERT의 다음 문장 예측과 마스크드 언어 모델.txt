@@ -1,0 +1,8 @@
+KoBERT의 다음 문장 예측 :
+https://colab.research.google.com/drive/1vbUpSTc14p2ZpN0M3mfG55Yw7yJIXke6?usp=sharing
+
+KLUE-BERT의 다음 문장 예측 :
+https://colab.research.google.com/drive/1VtO-fLgucof5mtuj3UTYb6X1SG6BYQrH?usp=sharing
+
+마스크드 언어 모델 :
+https://colab.research.google.com/drive/1Ng4Aa0xYBhWoa4qNZhv6Z-WrTXREZ7I-?usp=sharing

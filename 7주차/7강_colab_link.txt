@@ -1,0 +1,11 @@
+1. 바다나우 어텐션을 이용한 seq2seq
+https://bit.ly/2WSsrnF
+
+2. 바다나우 어텐션을 이용한 텍스트 분류
+https://bit.ly/2ZZdv9l
+
+3. 메모리 네트워크
+https://bit.ly/3g0TzZb
+
+4. 바다나우 어텐션을 이용한 seq2seq(functional ver)
+https://bit.ly/32R91DH

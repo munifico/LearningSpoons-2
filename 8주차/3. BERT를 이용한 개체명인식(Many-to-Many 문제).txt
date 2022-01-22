@@ -1,0 +1,2 @@
+KLUE-BERT를 이용한 개체명 인식
+https://colab.research.google.com/drive/1ZB5D4hKVFTVO4wMdX2sksGvvYme6HW76?usp=sharing

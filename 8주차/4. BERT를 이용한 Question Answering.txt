@@ -1,0 +1,7 @@
+예제 1번 : https://colab.research.google.com/drive/1dPuBT4bLbh9HsqUWaI6vHUPHKFi2zFKS?usp=sharing
+예제 2번 : https://colab.research.google.com/drive/1M7S1bn0eJW0tbFiKz_WPJ6Eia1Fvxief?usp=sharing
+
+BigBird를 이용한 Question Answering(입력 문장의 길이가 4096으로 증가)
+https://drive.google.com/file/d/1YXdXS_6cUh4gDKoipllxhX_-zuawLUJn/view?usp=sharing
+
+1번과 2번의 차이는 모델 구현 방식의 코드 차이인데 사실상 똑같은 모델입니다.

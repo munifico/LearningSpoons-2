@@ -1,0 +1,22 @@
+SKT KoBERT로 네이버 영화 리뷰 분류 (TPU 사용)
+https://colab.research.google.com/drive/18L1b5G7ESFHSuPDipl5RsUdLifcsLbkX?usp=sharing
+
+Multilingual BERT (구글이 처음 공개한 버전으로 한국어 성능은 낮은 편)
+https://colab.research.google.com/drive/1O3t-rcUGz-KOBv6DVKn1qyCCJkaYPp2o?usp=sharing
+
+반면 아래의 BERT들은 전부 한국에서 만든 한국어 BERT
+
+KLUE BERT
+https://colab.research.google.com/drive/13GeLuhaKQfcz22ICcJQSkxGGHotaTZSp?usp=sharing
+
+KcBERT
+https://colab.research.google.com/drive/1bcgyclbQQfEqzfsfI_8hij4t09yfmV20?usp=sharing
+
+KoELECTRA
+https://colab.research.google.com/drive/1wMAlJTx6dR6sHfOlVPyDbmIMF5ueqBWU?usp=sharing
+
+RoBERTa
+https://colab.research.google.com/drive/1CPp0_GyJU4rMFFQ83p8jGKB9P0eV7IuO?usp=sharing
+
+KLUE BERT를 이용한 KorNLI 문제 풀기
+https://colab.research.google.com/drive/1mbneiCqhC_a8LRAzJKXayTKggOeOJcK8?usp=sharing

@@ -1,0 +1,8 @@
+4강 실습 colab link
+https://bit.ly/2ZBW5OJ
+
+Simple RNN과 LSTM 실습하기
+https://colab.research.google.com/drive/1cEgtxH31MrfVerd4f5mIL9V9WEPoEzyH?usp=sharing
+
+네이버 쇼핑 리뷰 분류하기
+https://colab.research.google.com/drive/1IBdJfDpqd221dXjoGuhfi2wgeXzQj3Yt?usp=sharing
